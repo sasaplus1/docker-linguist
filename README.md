@@ -9,6 +9,10 @@ $ DOCKER_BUILDKIT=1 docker build -t sasaplus1/docker-linguist .
 $ docker run --rm -v $(pwd):/mnt sasaplus1/docker-linguist --breakdown
 ```
 
+## Related
+
+- https://github.com/github/linguist#overrides
+
 ## License
 
 The MIT license.
